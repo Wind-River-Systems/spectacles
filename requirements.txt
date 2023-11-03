@@ -1,5 +1,5 @@
 httpx==0.24.1
-httpcore<0.16.0
+httpcore==1.01
 colorama==0.4.4
 PyYAML==6.0
 backoff==1.10.0
